@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 3a10ffc10fb6d734a91fa17976f78ea7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4566702866244311261
+    second: Lapras_back_0
+  - first:
+      213: 4998785055020578605
+    second: Lapras_back_1
+  - first:
+      213: 2897052092618563497
+    second: Lapras_back_2
+  - first:
+      213: 3485612510865544730
+    second: Lapras_back_3
+  - first:
+      213: -4394373645992902660
+    second: Lapras_back_4
+  - first:
+      213: 9082410879353293353
+    second: Lapras_back_5
+  - first:
+      213: 6422461597848332622
+    second: Lapras_back_6
+  - first:
+      213: -1426282197979950311
+    second: Lapras_back_7
+  - first:
+      213: 6287592310116965361
+    second: Lapras_back_8
+  - first:
+      213: -1075798875093033539
+    second: Lapras_back_9
+  - first:
+      213: -262444901340099420
+    second: Lapras_back_10
+  - first:
+      213: -6577983676300473192
+    second: Lapras_back_11
+  - first:
+      213: -8245909164559817896
+    second: Lapras_back_12
+  - first:
+      213: -8159937760650720570
+    second: Lapras_back_13
+  - first:
+      213: 5361004274316989448
+    second: Lapras_back_14
+  - first:
+      213: 7745130653657192359
+    second: Lapras_back_15
+  - first:
+      213: 3340823651518313579
+    second: Lapras_back_16
+  - first:
+      213: 1209592117896670402
+    second: Lapras_back_17
+  - first:
+      213: 7397742000884715171
+    second: Lapras_back_18
+  - first:
+      213: 8957467472232649603
+    second: Lapras_back_19
+  - first:
+      213: 1581598873091243855
+    second: Lapras_back_20
+  - first:
+      213: 3137616101834193789
+    second: Lapras_back_21
+  - first:
+      213: -3869363557392716739
+    second: Lapras_back_22
+  - first:
+      213: 2568839513858395175
+    second: Lapras_back_23
+  - first:
+      213: 7301614336915041276
+    second: Lapras_back_24
+  - first:
+      213: -58804778597419446
+    second: Lapras_back_25
+  - first:
+      213: 6371513902367480163
+    second: Lapras_back_26
+  - first:
+      213: 7728198636069000235
+    second: Lapras_back_27
+  - first:
+      213: -4299511457057334595
+    second: Lapras_back_28
+  - first:
+      213: -8024657530464111131
+    second: Lapras_back_29
+  - first:
+      213: 8293373035616126289
+    second: Lapras_back_30
+  - first:
+      213: -4095169082830534840
+    second: Lapras_back_31
+  - first:
+      213: -8226826812812760414
+    second: Lapras_back_32
+  - first:
+      213: -3413109262616837469
+    second: Lapras_back_33
+  - first:
+      213: 3665792504264269514
+    second: Lapras_back_34
+  - first:
+      213: 6672416004583445952
+    second: Lapras_back_35
+  - first:
+      213: 3993869467635443966
+    second: Lapras_back_36
+  - first:
+      213: 8155176774980033369
+    second: Lapras_back_37
+  - first:
+      213: -8542542519877916051
+    second: Lapras_back_38
+  - first:
+      213: 7700133043894246874
+    second: Lapras_back_39
+  - first:
+      213: 893432355864446188
+    second: Lapras_back_40
+  - first:
+      213: 1681538565766004105
+    second: Lapras_back_41
+  - first:
+      213: 7630163892266071094
+    second: Lapras_back_42
+  - first:
+      213: 76849987416568050
+    second: Lapras_back_43
+  - first:
+      213: 1856462490139122883
+    second: Lapras_back_44
+  - first:
+      213: 280179623319942837
+    second: Lapras_back_45
+  - first:
+      213: 6236868910144725219
+    second: Lapras_back_46
+  - first:
+      213: -3838108409703814171
+    second: Lapras_back_47
+  - first:
+      213: -6083245323976314330
+    second: Lapras_back_48
+  - first:
+      213: -7678321568155750167
+    second: Lapras_back_49
+  - first:
+      213: 6151293919586734211
+    second: Lapras_back_50
+  - first:
+      213: -738323871723916371
+    second: Lapras_back_51
+  - first:
+      213: -7260245533727601587
+    second: Lapras_back_52
+  - first:
+      213: 3782277381048595543
+    second: Lapras_back_53
+  - first:
+      213: -3596944092148068866
+    second: Lapras_back_54
+  - first:
+      213: 4759062385934522883
+    second: Lapras_back_55
+  - first:
+      213: -6783290421506219940
+    second: Lapras_back_56
+  - first:
+      213: -608586311652647785
+    second: Lapras_back_57
+  - first:
+      213: -5980371481164200687
+    second: Lapras_back_58
+  - first:
+      213: 4388253383975617711
+    second: Lapras_back_59
+  - first:
+      213: -5275215090335663371
+    second: Lapras_back_60
+  - first:
+      213: 3618662230599942933
+    second: Lapras_back_61
+  - first:
+      213: -6614961722211580672
+    second: Lapras_back_62
+  - first:
+      213: 8034964240235631387
+    second: Lapras_back_63
+  - first:
+      213: 8139111013841802976
+    second: Lapras_back_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lapras_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81049bf00306f30800000000000000
+      internalID: 4566702866244311261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 854
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d277809d5804f5540800000000000000
+      internalID: 4998785055020578605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 854
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd45c6785643820800000000000000
+      internalID: 2897052092618563497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 855
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a165cce6c126f5030800000000000000
+      internalID: 3485612510865544730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 855
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff314c837c0403c0800000000000000
+      internalID: -4394373645992902660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a0ff7f2943b0e70800000000000000
+      internalID: 9082410879353293353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 782
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49665babca212950800000000000000
+      internalID: 6422461597848332622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 782
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91311ffc5e3d43ce0800000000000000
+      internalID: -1426282197979950311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 782
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbdff894e3024750800000000000000
+      internalID: 6287592310116965361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 783
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd90587f9ef111f0800000000000000
+      internalID: -1075798875093033539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc282b0cb9b5cf0800000000000000
+      internalID: -262444901340099420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 711
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ccac3b2be46b4a0800000000000000
+      internalID: -6577983676300473192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 711
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8532644bd45a09d80800000000000000
+      internalID: -8245909164559817896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 710
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca0e1307d312ce80800000000000000
+      internalID: -8159937760650720570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 710
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d302dbfc166a40800000000000000
+      internalID: 5361004274316989448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d9364b4b3c7b60800000000000000
+      internalID: 7745130653657192359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 641
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64f8fd196dfc5e20800000000000000
+      internalID: 3340823651518313579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 642
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce75e5f9559c010800000000000000
+      internalID: 1209592117896670402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 642
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae88b6a72f0aa660800000000000000
+      internalID: 7397742000884715171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 641
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831b8115315f4c70800000000000000
+      internalID: 8957467472232649603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ff2cf9bc7f2f510800000000000000
+      internalID: 1581598873091243855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 569
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b7f57883d0b8b20800000000000000
+      internalID: 3137616101834193789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 569
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ce3c668524d4ac0800000000000000
+      internalID: -3869363557392716739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 570
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c44847de956a320800000000000000
+      internalID: 2568839513858395175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 570
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb68b6cd8b845560800000000000000
+      internalID: 7301614336915041276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46fa9c8d551f2ff0800000000000000
+      internalID: -58804778597419446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 498
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3699310f22a2c6850800000000000000
+      internalID: 6371513902367480163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 497
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b241d88b6b3104b60800000000000000
+      internalID: 7728198636069000235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 497
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba106e0c111554c0800000000000000
+      internalID: -4299511457057334595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 498
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5f5841e70b2a090800000000000000
+      internalID: -8024657530464111131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155c3b1f5daf71370800000000000000
+      internalID: 8293373035616126289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 429
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84749b29a690b27c0800000000000000
+      internalID: -4095169082830534840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 429
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aae2a1f99074dd80800000000000000
+      internalID: -8226826812812760414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 428
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2c026853332a0d0800000000000000
+      internalID: -3413109262616837469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 428
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace16f44cd28fd230800000000000000
+      internalID: 3665792504264269514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d3d2110f299c50800000000000000
+      internalID: 6672416004583445952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 356
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef860b1de131d6730800000000000000
+      internalID: 3993869467635443966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 357
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b5331a1120d2170800000000000000
+      internalID: 8155176774980033369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 357
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa108a6dac27980800000000000000
+      internalID: -8542542519877916051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 357
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add5094d43e5cda60800000000000000
+      internalID: 7700133043894246874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4042a7efb166c00800000000000000
+      internalID: 893432355864446188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 284
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d3a989a66065710800000000000000
+      internalID: 1681538565766004105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 284
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f78832a9c3e960800000000000000
+      internalID: 7630163892266071094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 285
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f035f808a6011100800000000000000
+      internalID: 76849987416568050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 285
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc549f7cca73c910800000000000000
+      internalID: 1856462490139122883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6b94902e563e300800000000000000
+      internalID: 280179623319942837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 216
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0aadbba3fcd8650800000000000000
+      internalID: 6236868910144725219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 215
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb2a2e8cbc4cbac0800000000000000
+      internalID: -3838108409703814171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 215
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f5d6bb98f39ba0800000000000000
+      internalID: -6083245323976314330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 214
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e03bda173f117590800000000000000
+      internalID: -7678321568155750167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 63
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380dcf99a39cd5550800000000000000
+      internalID: 6151293919586734211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 146
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da374b8b952f0c5f0800000000000000
+      internalID: -738323871723916371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 146
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ccc0c472d6e3b90800000000000000
+      internalID: -7260245533727601587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 146
+        width: 66
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754756b1d395d7430800000000000000
+      internalID: 3782277381048595543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 146
+        width: 66
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd0396d766151ec0800000000000000
+      internalID: -3596944092148068866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30adc8186069b0240800000000000000
+      internalID: 4759062385934522883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 75
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50efc11d49ecd1a0800000000000000
+      internalID: -6783290421506219940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 75
+        width: 65
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c57c659fddd87f0800000000000000
+      internalID: -608586311652647785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 75
+        width: 65
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115c450c2d3710da0800000000000000
+      internalID: -5980371481164200687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 76
+        width: 63
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4c548e33536ec30800000000000000
+      internalID: 4388253383975617711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 68
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa33ca13dbaac6b0800000000000000
+      internalID: -5275215090335663371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51348015022183230800000000000000
+      internalID: 3618662230599942933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005c5c87c5fe234a0800000000000000
+      internalID: -6614961722211580672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_63
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13163ac76de18f60800000000000000
+      internalID: 8034964240235631387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapras_back_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4
+        width: 67
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6928f185ee3f070800000000000000
+      internalID: 8139111013841802976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

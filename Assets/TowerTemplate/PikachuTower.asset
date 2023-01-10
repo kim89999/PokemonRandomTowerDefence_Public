@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e071eac711f284949b18424ab1382b00, type: 3}
+  m_Name: PikachuTower
+  m_EditorClassIdentifier: 
+  towerPrefab: {fileID: 9182752786588534011, guid: fc0fe7582a96fac468d29c246e3fc46a, type: 3}
+  followTowerPrefab: {fileID: 7000689950783478779, guid: 1128b821cafd7fc45872c48e4eaa5618, type: 3}
+  weapon:
+  - sprite: {fileID: -136731546951362764, guid: e29247fe8dee90c4c8824b518b4899c9, type: 3}
+    name: "\uD53C\uCE74\uCE04"
+    damage: 10
+    slow: 0
+    buff: 0
+    rate: 1
+    range: 1.5
+    point: 30
+    sell: 20
+  - sprite: {fileID: 5993331097682321088, guid: afa5d806ddfd06e40aa3d8b39fabb52d, type: 3}
+    name: "\uB77C\uC774\uCE04"
+    damage: 30
+    slow: 0
+    buff: 0
+    rate: 1
+    range: 5
+    point: 30
+    sell: 40

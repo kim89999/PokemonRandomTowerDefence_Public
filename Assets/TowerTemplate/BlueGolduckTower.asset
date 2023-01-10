@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e071eac711f284949b18424ab1382b00, type: 3}
+  m_Name: BlueGolduckTower
+  m_EditorClassIdentifier: 
+  towerPrefab: {fileID: 3413837447285292924, guid: dee905c57d9363046b8990c827da33a5, type: 3}
+  followTowerPrefab: {fileID: 7000689950783478779, guid: 1128b821cafd7fc45872c48e4eaa5618, type: 3}
+  weapon:
+  - sprite: {fileID: -3578674114605741554, guid: 29059860d165d464d85f5b3e1e8d4b35, type: 3}
+    name: "\uACE8\uB355"
+    damage: 5
+    slow: 0
+    buff: 0
+    rate: 1
+    range: 3
+    point: 30
+    sell: 20
